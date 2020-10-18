@@ -1,0 +1,13 @@
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\bin\Debug\netcoreapp3.1\EpamFiguresTaskApp.exe
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\bin\Debug\netcoreapp3.1\EpamFiguresTaskApp.deps.json
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\bin\Debug\netcoreapp3.1\EpamFiguresTaskApp.runtimeconfig.json
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\bin\Debug\netcoreapp3.1\EpamFiguresTaskApp.runtimeconfig.dev.json
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\bin\Debug\netcoreapp3.1\EpamFiguresTaskApp.dll
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\bin\Debug\netcoreapp3.1\EpamFiguresTaskApp.pdb
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\obj\Debug\netcoreapp3.1\EpamFiguresTaskApp.csprojAssemblyReference.cache
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\obj\Debug\netcoreapp3.1\EpamFiguresTaskApp.AssemblyInfoInputs.cache
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\obj\Debug\netcoreapp3.1\EpamFiguresTaskApp.AssemblyInfo.cs
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\obj\Debug\netcoreapp3.1\EpamFiguresTaskApp.csproj.CoreCompileInputs.cache
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\obj\Debug\netcoreapp3.1\EpamFiguresTaskApp.dll
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\obj\Debug\netcoreapp3.1\EpamFiguresTaskApp.pdb
+E:\Docs\Git\NetTraining\EpamTask\EpamFiguresTaskApp\obj\Debug\netcoreapp3.1\EpamFiguresTaskApp.genruntimeconfig.cache
